@@ -7,6 +7,7 @@ Clone the project using git
 > git clone https://github.com/teurajarvi/react-components.git
 
 Install Node Modules
+> cd components
 > npm install
 
 Run the project
