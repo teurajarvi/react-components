@@ -1,6 +1,8 @@
 # react-components
 Getting familiar with react-components
 
+See the outcome and visit: https://vibrant-booth-f3abc4.netlify.app/
+
 ## How to install
 
 Clone the project using git
